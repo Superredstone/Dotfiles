@@ -98,7 +98,12 @@ require('lazy').setup({
     end
   },
 
-  "akinsho/bufferline.nvim",
+  {
+    "akinsho/bufferline.nvim",
+    config = function()
+      require('bufferline').setup({})
+    end
+  },
 
   -- File tree
   "nvim-tree/nvim-web-devicons",
