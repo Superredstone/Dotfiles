@@ -1,0 +1,64 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="9978e9f39c218d674463dab9dc728bd6" type="string">UGxiQ3VtWkdUY0tK</pref>
+	<pref name="COMBAT MASTER_BATTLE_PASS_END_TIME" type="string">eyIxIjoxNjg5ODk3NTk5LCIyIjoxNjc4MzE5OTk5fQ==</pref>
+	<pref name="COMBAT MASTER_BATTLE_PASS_INFINITY" type="int">1</pref>
+	<pref name="COMBAT MASTER_DISABLE_GLOBAL_CHAT" type="int">0</pref>
+	<pref name="COMBAT MASTER_DISABLE_HUB" type="int">0</pref>
+	<pref name="COMBAT MASTER_DISABLE_PUBLIC_ROOM" type="int">0</pref>
+	<pref name="COMBAT MASTER_PLAYFAB_APP_VERSION" type="string">MC4xMy4=</pref>
+	<pref name="COMBAT MASTER_PLAYFAB_ID" type="string">MzdBOTcwRjMwQkQ0MThEQg==</pref>
+	<pref name="COMBAT_MASTER_UNIQUE_DEVICE_ID" type="string">MTQ1NTlhNDAtMGY0MC00M2NlLWE0YmEtMTM2YWNkN2Y2ZTU4</pref>
+	<pref name="GET_LEADERBOARD_TOTAL_PLAYERS_NEXT_UPDATE_EA286FF7E886CD3B" type="string">NTI1MDExNTM4OTUyMjQyNzkwNA==</pref>
+	<pref name="GET_LEADERBOARD_TOTAL_PLAYERS_SAVED_COUNT_EA286FF7E886CD3B" type="int">191145</pref>
+	<pref name="LAST_AR_RANDOM_MATCH_INDEX" type="int">7</pref>
+	<pref name="LAST_DM_RANDOM_MATCH_INDEX" type="int">9</pref>
+	<pref name="LAST_SND_RANDOM_MATCH_INDEX" type="int">2</pref>
+	<pref name="LAST_TDM_RANDOM_MATCH_INDEX" type="int">9</pref>
+	<pref name="SELECTED_QUICK_PLAY_GAME_MODES_V2" type="int">32</pref>
+	<pref name="SHOWED_BATTLE_PERKS" type="string">W3siX3VpZCI6MTUwOTk0OTQ3fV0=</pref>
+	<pref name="SHOWED_BLUEPRINTS_ANIMATION" type="string">W3siX3VpZCI6MTY3Nzc3MzF9XQ==</pref>
+	<pref name="SHOWED_OPERATORS" type="string">W3siX3VpZCI6MzM1NTQ0Mzd9XQ==</pref>
+	<pref name="SHOWED_WRISTBANDS" type="string">W3siX3VpZCI6ODQwMTcxNTZ9XQ==</pref>
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Height Default" type="int">720</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">0</pref>
+	<pref name="Screenmanager Resolution Use Native Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
+	<pref name="Screenmanager Resolution Width Default" type="int">1280</pref>
+	<pref name="Screenmanager Window Position X" type="int">0</pref>
+	<pref name="Screenmanager Window Position Y" type="int">0</pref>
+	<pref name="TOTAL_PLAYERS_LEADERBOARD_MASTERS_VERSION_9" type="int">191145</pref>
+	<pref name="UnityInstallationId" type="string">ZmU0MmYwOGE2ZTNjNmQ4ZmE4MGZhYjZhMWMzNWFkN2U=</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="WHATS_NEW_VERSION_0.11_WAS_SHOWN" type="int">1</pref>
+	<pref name="WHATS_NEW_VERSION_0.13_WAS_SHOWN" type="int">1</pref>
+	<pref name="aAXDgwgl" type="string">UGxhNlpnVUVBR25aMWdnPQ==</pref>
+	<pref name="bDPDiQkqOMO9VznDlCQnOcO9UjM=" type="string">ODVyMldSUUVBRFNCUDFBPQ==</pref>
+	<pref name="bDPDiQkqOMO9VznDlCopL8OrRw==" type="string">V0REY1dSUUVBUHhZbHY0PQ==</pref>
+	<pref name="bDPDlAIjP8OYSzfDlg8yNA==" type="string">UFZhNlpnVUVBSGVzcm9BPQ==</pref>
+	<pref name="bDfDjgMHPcO5czfDlAchKMO7YRXDlRMoOcOsTA==" type="string">UEZhNlpnVUVBSmFCZEI4PQ==</pref>
+	<pref name="bTPDlBUvOcOgSD/Djh8VOcO7WzjDnRIu" type="string">UDFhNlpnVUVBSk4ydS9NPQ==</pref>
+	<pref name="bTXDiAMjI8OaXTfDlgMELMO9SjrDnw==" type="string">V0REY1dSUUVBUHhZbHY0PQ==</pref>
+	<pref name="cSDDnxQnIcOlaDnDlhMrKA==" type="string">cE0raldCUUVBQ2JPMVc4PQ==</pref>
+	<pref name="cjnDlAECJMO6SjfDlAUjDsO8UjrDkwgh" type="string">ZmxlNlpnVUVBSjZiY3pVPQ==</pref>
+	<pref name="cjnDmAQ/AcOgWT7Djg==" type="string">UDFhNlpnVUVBSk4ydS9NPQ==</pref>
+	<pref name="cjnDmAQ/DMOnSj/DuwovLMO6VzjDnQ==" type="string">UGxhNlpnVUVBR25aMWdnPQ==</pref>
+	<pref name="cjnDmAQ/HsOhXzLDlRE1" type="string">UDFhNlpnVUVBSk4ydS9NPQ==</pref>
+	<pref name="cz/DiisnPcOYSzfDlg8yNA==" type="string">UFZhNlpnVUVBSGVzcm9BPQ==</pref>
+	<pref name="djnDlgIHKcO6" type="string">UDFhNlpnVUVBSk4ydS9NPQ==</pref>
+	<pref name="eD/DnwoiAsOvaD/DnxEOLMOnWiU=" type="string">UGxZYUpCUUVBRnhWTm5FPQ==</pref>
+	<pref name="eD/DnwoiAsOvaD/DnxERIsO7UjI=" type="string">UGxZT0pCUUVBTGpVTmRzPQ==</pref>
+	<pref name="eDnDnSMoLMOrUjPDng==" type="string">UDFhNlpnVUVBSk4ydS9NPQ==</pref>
+	<pref name="ejPDiRI0OMOqSj/DmAojHcO7USbDiQ==" type="string">UDFhNlpnVUVBSk4ydS9NPQ==</pref>
+	<pref name="fDfDjhIqKMOFVzHDkhI=" type="string">UDFhNlpnVUVBSk4ydS9NPQ==</pref>
+	<pref name="fDfDjhIqKMOIUCLDkycqJMOoTT/DlAE=" type="string">UGxhNlpnVUVBR25aMWdnPQ==</pref>
+	<pref name="fDfDjhIqKMOaVjfDngkxPg==" type="string">UEZhNlpnVUVBSmFCZEI4PQ==</pref>
+	<pref name="fDnDnh8FLMOkfT7DnxUyHcOmTT/Djg8pIw==" type="string">UDFhNlpnVUVBSk4ydS9NPQ==</pref>
+	<pref name="fRnDtyQHGcKpcxfDqTIDH8OWZgbDpSQJAsOaagnDvicSDA==" type="string">UlhUT0R5NHFJalFrSmdKM2NHUmtjbUptTVRFNU9Td2liWFZzZEdsd2JHbGxjaHhzaUVoek1nOEVBTDRUUGhvPQ==</pref>
+	<pref name="fzXDmQMqKMO7XyLDkwkoC8OgRjPDniQnPsOsWgDDmwozKA==" type="string">ZHJkQVdCUUVBTytrZ0ZVPQ==</pref>
+	<pref name="unity.cloud_userid" type="string">ZmU0MmYwOGE2ZTNjNmQ4ZmE4MGZhYjZhMWMzNWFkN2U=</pref>
+	<pref name="unity.player_session_count" type="string">Mg==</pref>
+	<pref name="unity.player_sessionid" type="string">NDUwNDc1NTYzMjM4MzQ2MDM4OA==</pref>
+</unity_prefs>

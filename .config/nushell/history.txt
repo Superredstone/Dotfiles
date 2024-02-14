@@ -1,0 +1,22 @@
+nu
+ls
+ls -al
+ls -al | where size > 10000
+ls -al | where size > 1000
+ls -al | where size == 1000
+ls -al | where size >= 100
+ls -al | where size >= 100.0
+ls -al | where size >= 10f
+ls -al | where size >= 10g
+ls -al | where size >= 10m
+ls -al | where size >= 10mb
+ls -al | where size > 10mb
+ls -al | where size > 1mb
+ls -al | where size > 0.2mb
+ls -al | where size > 1mb
+ls
+ls -al | where size > 200B
+ls -al | where size > 20B
+ls -al | where type == dir
+ls | where type == dir
+sudo pacman -Syu

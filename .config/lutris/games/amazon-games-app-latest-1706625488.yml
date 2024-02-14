@@ -1,0 +1,42 @@
+game:
+  arch: win64
+  exe: drive_c/users/r3ddy/Desktop/Amazon Games.lnk
+  prefix: /home/r3ddy/Games/amazon-games-app
+game_slug: amazon-games-app
+name: Amazon Games App
+script:
+  files:
+  - ags: https://download.amazongames.com/AmazonGamesSetup.exe
+  game:
+    arch: win64
+    exe: drive_c/users/$USER/Desktop/Amazon Games.lnk
+    prefix: $GAMEDIR
+  installer:
+  - task:
+      arch: win64
+      prefix: /home/r3ddy/Games/amazon-games-app
+      wine_path: /home/r3ddy/.local/share/lutris/runners/wine/wine-ge-8-25-x86_64/bin/wine
+  - task:
+      arch: win64
+      env: {}
+      exclude_processes: Amazon Games.exe explorer.exe
+      executable: /home/r3ddy/.cache/lutris/installer/amazon-games-app/ags/AmazonGamesSetup.exe
+      prefix: /home/r3ddy/Games/amazon-games-app
+      wine_path: /home/r3ddy/.local/share/lutris/runners/wine/wine-ge-8-25-x86_64/bin/wine
+  - task:
+      app: corefonts
+      arch: win64
+      prefix: /home/r3ddy/Games/amazon-games-app
+      wine_path: /home/r3ddy/.local/share/lutris/runners/wine/wine-ge-8-25-x86_64/bin/wine
+  - task:
+      arch: win64
+      prefix: /home/r3ddy/Games/amazon-games-app
+      wine_path: /home/r3ddy/.local/share/lutris/runners/wine/wine-ge-8-25-x86_64/bin/wine
+  - task:
+      app: win10
+      arch: win64
+      prefix: /home/r3ddy/Games/amazon-games-app
+      wine_path: /home/r3ddy/.local/share/lutris/runners/wine/wine-ge-8-25-x86_64/bin/wine
+slug: amazon-games-app-latest
+version: Latest
+year: 2015

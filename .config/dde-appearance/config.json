@@ -1,0 +1,19 @@
+[
+    {
+        "type": "index+monitorName",
+        "wallpaperInfo": [
+            {
+                "uri": "file:///usr/share/wallpapers/deepin/Paper_Architecture_by_Dmitri_Popov.jpg",
+                "wpIndex": "0+eDP-1"
+            },
+            {
+                "uri": "file:///usr/share/wallpapers/deepin/desktop.jpg",
+                "wpIndex": "1+eDP-1"
+            },
+            {
+                "uri": "file:///usr/share/wallpapers/deepin/Hummingbird_by_Shu_Le.jpg",
+                "wpIndex": "2+eDP-1"
+            }
+        ]
+    }
+]

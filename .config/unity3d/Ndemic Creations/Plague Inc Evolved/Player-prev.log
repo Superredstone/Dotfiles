@@ -1,0 +1,1794 @@
+Mono path[0] = '/home/r3ddy/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed'
+Mono config path = '/home/r3ddy/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/MonoBleedingEdge/etc'
+Preloaded 'libCSteamworks.so'
+Preloaded 'libMouseLib64.so'
+Preloaded 'libPlagueExternal.so'
+Preloaded 'libPlagueExternalCoop.so'
+Preloaded 'libPlagueExternalMP.so'
+Preloaded 'libsteam_api.so'
+Unable to preload the following plugins:
+	libMouseLib.so
+Display 0 '0': 1920x1080 (primary device).
+Desktop is 1920 x 1080 @ 144 Hz
+Initialize engine version: 2019.4.9f1 (50fe8a171dd9)
+[Subsystems] Discovering subsystems at path /home/r3ddy/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Renderer: AMD Radeon Graphics (radeonsi, renoir, LLVM 16.0.6, DRM 3.56, 6.7.2-arch1-1)
+Vendor:   AMD
+Version:  4.6 (Core Profile) Mesa 23.3.4-arch1.2
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
+ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel
+_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensio
+ns GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex
+_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3t
+c GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_
+atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 36655504
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.112 seconds
+OnLevelWasLoaded was found on LineManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed 
+(Filename:  Line: 369)
+
+Default vsync count 0
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 144 Hz
+The referenced script on this Behaviour (Game Object 'ReanimateZombies') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_World_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_World') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing! 
+(Filename:  Line: 334)
+
+UnloadTime: 1.566100 ms
+/HS/  PlagueExternalMP Plugin Handshake [9292] 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+/HS/  PlagueExternalCoop Plugin Handshake [9292] 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SET ACTIVE LANGUAGE: Italian 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Number imported: 9113 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Data/Languages/it Line: 1 - non-whitespace/newlines outside of tag
+Data/Languages/it Line: 6984 - non-whitespace/newlines outside of tag
+Data/Languages/it Line: 7006 - non-whitespace/newlines outside of tag
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Number imported: 9054 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Data/Languages/en Line: 1 - non-whitespace/newlines outside of tag
+Data/Languages/en Line: 6833 - non-whitespace/newlines outside of tag
+Data/Languages/en Line: 6870 - non-whitespace/newlines outside of tag
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting resolution: 1920x1080 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_World_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_World_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_World') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_World') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing! 
+(Filename:  Line: 334)
+
+System Info:
+Plague Inc. Evolved Version 1.19.1.0
+OS: Linux 6.7 Arch Linux  64bit
+Processor: AMD Ryzen 7 4800H with Radeon Graphics Count: 16
+Graphics: 9634/AMD Radeon Graphics (radeonsi, renoir, LLVM 16.0.6, DRM 3.56, 6.7.2-arch1-1)/AMD/OpenGL 4.6 (Core Profile) Mesa 23.3.4-arch1.2/128 Shader: 50
+Memory: system - 15409 graphics - 128
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting breakpad minidump AppID = 246620
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198315249656 [API loaded no]
+CheckResources () for CountryStateCamera (NoiseAndGrain) should be overwritten. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CheckResources () for WorldCamera (Vignetting) should be overwritten. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CheckResources () for DoubleHelixCamera_FrontEnd (Blur) should be overwritten. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CheckResources () for DiseaseCamera (Blur) should be overwritten. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CheckResources () for DoubleHelixCamera (Blur) should be overwritten. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CheckResources () for DoubleHelixCamera_Cure (Blur) should be overwritten. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CheckResources () for DiseaseCamera_Cure (Blur) should be overwritten. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreen/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreen/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease/TooltipDetector" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreenMP/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease/TooltipDetector" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreenMP/HUDPanel/Anchor-Top/Coop_Panel/Coop/Content/Center/MP_CO_LabBar/NextLab/Tooltip/Tooltip Child" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreenMP/HUDPanel/Anchor-Top/Coop_Panel/Coop/Content/Center/MP_CO_LabBar/NextLab/Tooltip/Tooltip Child" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreen_Cure/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease/TooltipDetector" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreen_CTW/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreen_CTW/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease/TooltipDetector" 
+(Filename:  Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CHUDScreen.DisplayCurrentContext () [0x0002d] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CInterfaceManager.set_SelectedCountryView (CountryView value) [0x00018] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at WorldMapController.SetSelectedCountry (CountryView cv, CountryView+EOverlayState overlayState) [0x00022] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at WorldMapController.SetSelectedCountry (CountryView cv) [0x00000] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CHUDScreen.Default () [0x0006a] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CInterfaceManager.TargetBubbleCancel () [0x0007d] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CHUDScreen.Update () [0x00023] in <25ea263ee60a42a7958358c5aad0165e>:0 
+ 
+(Filename: <25ea263ee60a42a7958358c5aad0165e> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CHUDScreen.DisplayCurrentContext () [0x0002d] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CInterfaceManager.set_SelectedCountryView (CountryView value) [0x00018] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at WorldMapController.SetSelectedCountry (CountryView cv, CountryView+EOverlayState overlayState) [0x00022] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at WorldMapController.SetSelectedCountry (CountryView cv) [0x00000] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CCountrySelect.Update () [0x00015] in <25ea263ee60a42a7958358c5aad0165e>:0 
+ 
+(Filename: <25ea263ee60a42a7958358c5aad0165e> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CHUDScreen.DisplayCurrentContext () [0x0002d] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CInterfaceManager.set_SelectedCountryView (CountryView value) [0x00018] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at WorldMapController.SetSelectedCountry (CountryView cv, CountryView+EOverlayState overlayState) [0x00022] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at WorldMapController.SetSelectedCountry (CountryView cv) [0x00000] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CHUDScreen.Default () [0x0006a] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CInterfaceManager.TargetBubbleCancel () [0x0007d] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CHUDScreen.Update () [0x00023] in <25ea263ee60a42a7958358c5aad0165e>:0 
+ 
+(Filename: <25ea263ee60a42a7958358c5aad0165e> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CHUDScreen.DisplayCurrentContext () [0x0002d] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CInterfaceManager.set_SelectedCountryView (CountryView value) [0x00018] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at WorldMapController.SetSelectedCountry (CountryView cv, CountryView+EOverlayState overlayState) [0x00022] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at WorldMapController.SetSelectedCountry (CountryView cv) [0x00000] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CHUDScreen.Default () [0x0006a] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CInterfaceManager.TargetBubbleCancel () [0x0007d] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CHUDScreen.Update () [0x00023] in <25ea263ee60a42a7958358c5aad0165e>:0 
+ 
+(Filename: <25ea263ee60a42a7958358c5aad0165e> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CHUDScreen.DisplayCurrentContext () [0x0002d] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CInterfaceManager.set_SelectedCountryView (CountryView value) [0x00018] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at WorldMapController.SetSelectedCountry (CountryView cv, CountryView+EOverlayState overlayState) [0x00022] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at WorldMapController.SetSelectedCountry (CountryView cv) [0x00000] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CCountrySelect.Update () [0x00015] in <25ea263ee60a42a7958358c5aad0165e>:0 
+ 
+(Filename: <25ea263ee60a42a7958358c5aad0165e> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CHUDScreen.DisplayCurrentContext () [0x0002d] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CInterfaceManager.set_SelectedCountryView (CountryView value) [0x00018] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at WorldMapController.SetSelectedCountry (CountryView cv, CountryView+EOverlayState overlayState) [0x00022] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at WorldMapController.SetSelectedCountry (CountryView cv) [0x00000] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CHUDScreen.Default () [0x0006a] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CInterfaceManager.TargetBubbleCancel () [0x0007d] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CHUDScreen.Update () [0x00023] in <25ea263ee60a42a7958358c5aad0165e>:0 
+ 
+(Filename: <25ea263ee60a42a7958358c5aad0165e> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CHUDScreen.DisplayCurrentContext () [0x0002d] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CInterfaceManager.set_SelectedCountryView (CountryView value) [0x00018] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at WorldMapController.SetSelectedCountry (CountryView cv, CountryView+EOverlayState overlayState) [0x00022] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at WorldMapController.SetSelectedCountry (CountryView cv) [0x00000] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CCountrySelect.Update () [0x00015] in <25ea263ee60a42a7958358c5aad0165e>:0 
+ 
+(Filename: <25ea263ee60a42a7958358c5aad0165e> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CTechTreeSubScreen.TechSelected (Technology tech, TechHex hex) [0x0010a] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CTechTreeSubScreen.LateUpdate () [0x0003c] in <25ea263ee60a42a7958358c5aad0165e>:0 
+ 
+(Filename: <25ea263ee60a42a7958358c5aad0165e> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CTechTreeSubScreen.TechSelected (Technology tech, TechHex hex) [0x0010a] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CTechTreeSubScreen.LateUpdate () [0x0003c] in <25ea263ee60a42a7958358c5aad0165e>:0 
+ 
+(Filename: <25ea263ee60a42a7958358c5aad0165e> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CTechTreeSubScreen.TechSelected (Technology tech, TechHex hex) [0x0010a] in <25ea263ee60a42a7958358c5aad0165e>:0 
+  at CTechTreeSubScreen.LateUpdate () [0x0003c] in <25ea263ee60a42a7958358c5aad0165e>:0 
+ 
+(Filename: <25ea263ee60a42a7958358c5aad0165e> Line: 0)
+
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 144 Hz
+Error loading popup: HTTP/1.1 500 Internal Server Error 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InitUIHandlers 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InitUIHandlers 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+LOADED CLIP: PLAGUE_Intro_720_Q7_Q3 (UnityEngine.VideoClip) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Registering network view:SteamNetwork (INetworkView) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+*******************************************SteamManager.Initialized:True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+USER STATS RECEIVED CALLBACK 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+User stats received for :76561198315249656 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CHECKING UNLOCKS FOR STEAM PLAYER: 76561198315249656 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DiseaseType: BACTERIA val: -1 -> no mega achievement 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DiseaseType: BACTERIA val: -1 -> no normal cheats 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DiseaseType: BACTERIA val: -1 -> no brutal cheats 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+All scenarios achievement failed: mst complete artificial_organs 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cure DiseaseType: BACTERIA val: -1 -> no mega achievement 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cure DiseaseType: BACTERIA val: -1 -> no normal cheats 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cure DiseaseType: BACTERIA val: -1 -> no brutal cheats 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+BEGIN PLAYBACK 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY VID 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SKIP! 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CLOUD: Couldn't read "meta.dat", file does not exist 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CLOUD: Could not load cloud data - meta.dat 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 76143 unused Assets to reduce memory usage. Loaded Objects now: 251859.
+Total: 267.451443 ms (FindLiveObjects: 21.806398 ms CreateObjectMapping: 12.654752 ms MarkObjects: 183.628411 ms  DeleteObjects: 49.360781 ms)
+
+EVENT MANAGER CREATED 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Clear Game Called 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Registering network view:SteamNetwork (INetworkView) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+*******************************************SteamManager.Initialized:True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+EVENT MANAGER CREATED 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Clear Game Called 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Registering network view:SteamNetwork (INetworkView) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+*******************************************SteamManager.Initialized:True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+EVENT MANAGER CREATED 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Clear Game Called 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Registering network view:SteamNetwork (INetworkView) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+*******************************************SteamManager.Initialized:True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+EVENT MANAGER CREATED 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+EVENT MANAGER CREATED 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IMPORTING DISEASE TECH 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CURE SCENARIO: Cure_Standard scenario:  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDING DISEASE[CURE]: SPDisease FOR PLAYER: Petrich 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+TRAIL PARTICLES INITIALISE 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject: 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetP2UserBubble - bonusObject: 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject: 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Reset dynamic SFX 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject: 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject:Bubble_CountrySelect_Cure(Clone) (BonusObject) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INITIAL TRANSFER OF POP: Pax-19 in Brazil 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IGame.StartGame() - type:CureTutorial, IsReplayActive:False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DIS[Pax-19] ---totalInf:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject: 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetP2UserBubble - bonusObject: 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SETTING INITIAL SPREADWAVES: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C2 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C3 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Current section name do not match checked module section name [C4] ignoring module check 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Current section name do not match checked module section name [C4] ignoring module check 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Current section name do not match checked module section name [C4] ignoring module check 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[0]Disease.EvolveTech[Build_Monitoring_Stations] - free:False, cost:4 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:Pax-19 evolved:Build_Monitoring_Stations 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[0]Disease.EvolveTech[Deploy_Field_Operatives] - free:False, cost:2 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:Pax-19 evolved:Deploy_Field_Operatives 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY SFX: childrenlaugh 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C11 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INVESTIGATE SPEED: 30 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INVESTIGATE SPEED: 30 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY SFX: nowboarding 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[12]Disease.EvolveTech[Declare_Outbreak] - free:True, cost:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[13]Disease.EvolveTech[Declare_Knowledge] - free:True, cost:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C2 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C3 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[23]Disease.EvolveTech[Hand_Washing] - free:False, cost:6 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:Pax-19 evolved:Hand_Washing 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY SFX: cough 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C2 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C3 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[38]Disease.EvolveTech[South_America_Alert] - free:False, cost:1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:Pax-19 evolved:South_America_Alert 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[38]Disease.EvolveTech[SA_Force_Lockdown] - free:False, cost:5 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:Pax-19 evolved:SA_Force_Lockdown 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[38]Disease.EvolveTech[SA_Restrict_Ground_Connections] - free:False, cost:3 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:Pax-19 evolved:SA_Restrict_Ground_Connections 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C2 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C3 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[40]Disease.EvolveTech[Furlough_Schemes] - free:False, cost:7 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:Pax-19 evolved:Furlough_Schemes 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C50 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C50 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C50 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C50 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C50 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C50 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C2 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Module marked complete/skipped :C3 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[40]Disease.EvolveTech[Development] - free:False, cost:10 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:Pax-19 evolved:Development 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Removing government action Lock Down 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Removing government action Lock Down 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[43]Disease.EvolveTech[Prepare_Manufacturing] - free:True, cost:5 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorial :C20 already complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ERROR: Could not retrieve next module to update current module section name 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Clear Game Called 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Registering network view:SteamNetwork (INetworkView) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+*******************************************SteamManager.Initialized:True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Clear Game Called 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Registering network view:SteamNetwork (INetworkView) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+*******************************************SteamManager.Initialized:True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Clear Game Called 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Registering network view:SteamNetwork (INetworkView) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+*******************************************SteamManager.Initialized:True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Clear Game Called 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Registering network view:SteamNetwork (INetworkView) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+*******************************************SteamManager.Initialized:True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 75a452c006c0 -> priority: 1 
+  Thread -> id: 75a4510006c0 -> priority: 1 
+  Thread -> id: 75a43fe006c0 -> priority: 1 
+  Thread -> id: 75a43f4006c0 -> priority: 1 
+  Thread -> id: 75a43ea006c0 -> priority: 1 
+  Thread -> id: 75a43e0006c0 -> priority: 1 
+  Thread -> id: 75a43d6006c0 -> priority: 1 
+  Thread -> id: 75a43cc006c0 -> priority: 1 
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+STEAM API SHUTDOWN 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+

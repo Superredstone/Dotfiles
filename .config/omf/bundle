@@ -1,0 +1,6 @@
+package archlinux
+package vcs
+theme default
+theme lolfish
+theme pie
+theme slacker

@@ -1,0 +1,62 @@
+game:
+  arch: win64
+  args: --license_mask -1
+  exe: drive_c/Program Files/Xenia/xenia.exe
+  prefix: /home/r3ddy/Games/xenia-emu
+game_slug: xenia-emu
+name: Xenia
+requires: null
+script:
+  files:
+  - archive: https://github.com/xenia-project/release-builds-windows/releases/latest/download/xenia_master.zip
+  game:
+    arch: win64
+    exe: drive_c/Program Files/Xenia/xenia.exe
+    prefix: $GAMEDIR
+  installer:
+  - task:
+      arch: win64
+      install_gecko: 'False'
+      install_mono: 'True'
+      prefix: /home/r3ddy/Games/xenia-emu
+      wine_path: /home/r3ddy/.local/share/lutris/runners/wine/wine-ge-8-25-x86_64/bin/wine
+  - task:
+      app: vcrun2019
+      arch: win64
+      prefix: /home/r3ddy/Games/xenia-emu
+      wine_path: /home/r3ddy/.local/share/lutris/runners/wine/wine-ge-8-25-x86_64/bin/wine
+  - task:
+      app: win10
+      arch: win64
+      prefix: /home/r3ddy/Games/xenia-emu
+      wine_path: /home/r3ddy/.local/share/lutris/runners/wine/wine-ge-8-25-x86_64/bin/wine
+  - extract:
+      dst: $GAMEDIR/drive_c/Program Files/Xenia
+      file: archive
+  - chmodx: $GAMEDIR/drive_c/Program Files/Xenia/xenia.exe
+  - write_file:
+      content: ''
+      file: $GAMEDIR/drive_c/Program Files/Xenia/portable.txt
+  - task:
+      arch: win64
+      env: {}
+      executable: /home/r3ddy/Games/xenia-emu/drive_c/Program Files/Xenia/xenia.exe
+      prefix: /home/r3ddy/Games/xenia-emu
+      wine_path: /home/r3ddy/.local/share/lutris/runners/wine/wine-ge-8-25-x86_64/bin/wine
+  - task:
+      arch: win64
+      args: /home/r3ddy/Games/xenia-emu/drive_c/Program Files/Xenia/xenia.config.toml
+      env: {}
+      executable: notepad.exe
+      prefix: /home/r3ddy/Games/xenia-emu
+      wine_path: /home/r3ddy/.local/share/lutris/runners/wine/wine-ge-8-25-x86_64/bin/wine
+slug: xenia-latest
+system:
+  locale: ''
+  use_us_layout: false
+variables: {}
+version: Latest
+wine:
+  autoconf_joypad: true
+  dgvoodoo2: true
+year: 2013

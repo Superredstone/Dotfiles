@@ -1,0 +1,16 @@
+import = [
+	"~/.config/alacritty/catppuccin-mocha.toml"
+]
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+# family = "Fira Code NerdFont"
+style = "Regular"
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "Italic"

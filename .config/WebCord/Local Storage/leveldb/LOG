@@ -1,0 +1,5 @@
+2024/01/14-14:36:49.407 fa5c Creating DB /home/r3ddy/.config/WebCord/Local Storage/leveldb since it was missing.
+2024/01/14-14:36:49.417 fa5c Reusing MANIFEST /home/r3ddy/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
+2024/01/14-14:38:52.653 fa5d Level-0 table #5: started
+2024/01/14-14:38:52.658 fa5d Level-0 table #5: 92772 bytes OK
+2024/01/14-14:38:52.665 fa5d Delete type=0 #3

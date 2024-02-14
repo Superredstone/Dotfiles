@@ -1,0 +1,12 @@
+# GIMP gimp-pencil-tool options
+
+(brush "1. Pixel")
+(dynamics "Dynamics Off")
+(gradient "Da pp a sf (RGB)")
+(palette "Cronologia colore")
+(brush-size 1)
+(brush-angle 180)
+(brush-spacing 0.01)
+(brush-force 1)
+
+# end of gimp-pencil-tool options
