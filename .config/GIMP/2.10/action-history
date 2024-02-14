@@ -13,6 +13,7 @@
 (history-item "layers-new" 1)
 (history-item "tools-pencil" 0)
 (history-item "edit-copy-visible" 0)
-(history-item "tools-size-set-to-default" 1)
+(history-item "tools-size-set-to-default" 0)
+(history-item "tools-free-select" 1)
 
 # end of action-history

@@ -1,7 +1,7 @@
 # GIMP user context
 
-(tool "gimp-pencil-tool")
-(paint-info "gimp-pencil")
+(tool "gimp-free-select-tool")
+(paint-info "gimp-paintbrush")
 (brush "1. Pixel")
 (dynamics "Dynamics Off")
 (mybrush "100% Opaque")
