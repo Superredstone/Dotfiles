@@ -13,10 +13,10 @@
     <vk_warning>false</vk_warning>
     <gp_download>true</gp_download>
     <macos_disclaimer>false</macos_disclaimer>
-    <fullscreen>false</fullscreen>
+    <fullscreen>true</fullscreen>
     <proxy_server></proxy_server>
     <disable_screensaver>true</disable_screensaver>
-    <console_language>1</console_language>
+    <console_language>4</console_language>
     <window_position>
         <x>-1</x>
         <y>-1</y>
@@ -44,7 +44,7 @@
         <dlc_width>50</dlc_width>
         <game_time_width>140</game_time_width>
         <game_started_width>160</game_started_width>
-        <region_width>80</region_width>
+        <region_width>934</region_width>
         <title_id>0</title_id>
     </GameList>
     <RecentLaunchFiles/>
@@ -55,6 +55,23 @@
     <GameCache/>
     <GraphicPack>
         <Entry filename="graphicPacks/downloadedGraphicPacks/KirbyRainbow_InvisibleLineFix/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/Bayonetta2/Workarounds/DynamicShadows/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/Bayonetta2/Workarounds/Portal/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/Bayonetta2/Graphics/rules.txt">
+            <Preset>
+                <category>Resolution</category>
+                <preset>1920x1080</preset>
+            </Preset>
+            <Preset>
+                <category>Shadow Quality</category>
+                <preset>Ultra</preset>
+            </Preset>
+            <Preset>
+                <category>Anisotropic Filtering Quality</category>
+                <preset>4x</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/Bayonetta2/Mods/HighLOD/rules.txt"/>
         <Entry filename="graphicPacks/downloadedGraphicPacks/Bayonetta2/Mods/60FPSCutscenes/rules.txt"/>
         <Entry filename="graphicPacks/downloadedGraphicPacks/SkylandersSwapForce/Workarounds/PortalStabilityFix/rules.txt"/>
     </GraphicPack>
@@ -92,14 +109,14 @@
     </Graphic>
     <Audio>
         <api>3</api>
-        <delay>2</delay>
-        <TVChannels>1</TVChannels>
+        <delay>0</delay>
+        <TVChannels>2</TVChannels>
         <PadChannels>1</PadChannels>
         <InputChannels>0</InputChannels>
         <TVVolume>50</TVVolume>
         <PadVolume>0</PadVolume>
         <InputVolume>50</InputVolume>
-        <TVDevice></TVDevice>
+        <TVDevice>alsa_output.usb-046d_G435_Wireless_Gaming_Headset_V001008005.1-01.analog-stereo</TVDevice>
         <PadDevice></PadDevice>
         <InputDevice></InputDevice>
     </Audio>
