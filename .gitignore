@@ -2,9 +2,11 @@
 .config/heroic/
 .config/VencordDesktop/
 .config/discord/
-.config/discord-screenaudio
-.config/WebCord
-.config/PCSX2
-.config/Motrix
-.config/Vencord
+.config/discord-screenaudio/
+.config/WebCord/
+.config/PCSX2/
+.config/Motrix/
+.config/Vencord/
 .config/tmux/plugins/
+.config/ftb-app/
+.config/go/
